@@ -22,13 +22,17 @@ This is an Analysis Tool for Algorithms in an attempt to create Minor-1 Project.
 
 ### Sorting
 
-![Running with Custom Input](screenshots/withsortinput.png)
-
-![Running with Random Input](screenshots/randomsort.png)
+<div align="center">
+  <img src="screenshots/withsortinput.png"><br>
+  <img src="screenshots/randomsort.png"><br><br>
+</div>
 
 ### Searching
 
-![Running with Random Input](screenshots/searchingrandom.png)
+<div align="center">
+  <img src="screenshots/searchingrandom.png"><br><br>
+</div>
+
 ---
 
 ### Contributers
