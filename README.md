@@ -22,6 +22,8 @@ This is an Analysis Tool for Algorithms in an attempt to create Minor-1 Project.
 
 ### Sorting
 
+<img src="screenshots/withsortinput.png" align="middle">
+
 ![Running with Custom Input](screenshots/withsortinput.png)
 
 ![Running with Random Input](screenshots/randomsort.png)
