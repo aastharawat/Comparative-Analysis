@@ -22,8 +22,6 @@ This is an Analysis Tool for Algorithms in an attempt to create Minor-1 Project.
 
 ### Sorting
 
-<img src="screenshots/withsortinput.png" align="middle">
-
 ![Running with Custom Input](screenshots/withsortinput.png)
 
 ![Running with Random Input](screenshots/randomsort.png)
@@ -32,3 +30,12 @@ This is an Analysis Tool for Algorithms in an attempt to create Minor-1 Project.
 
 ![Running with Random Input](screenshots/searchingrandom.png)
 ---
+
+### Contributers
+- Abhinav Sharma
+- Aastha Rawat
+- Hemant Thakkar
+- Jyotsna Bisht
+
+### License
+Licensed under [MIT License](LICENSE)
