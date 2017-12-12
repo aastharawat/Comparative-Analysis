@@ -1,6 +1,6 @@
 # Comparative Analysis Tool
-This is an **Analysis** Tool for Algorithms in an attempt to create **Minor-1 Project**. The tool is based on Execution Time of different Algorithms based on the set of Algorithms user has selected. The tool is entirely written in **C**.
----
+
+This is an Analysis Tool for Algorithms in an attempt to create Minor-1 Project. The tool is based on Execution Time of different Algorithms based on the set of Algorithms user has selected. The tool is entirely written in C.
 
 ## Sorting Algorithms Implemented
 - [Merge Sort](http://www.geeksforgeeks.org/merge-sort/)
@@ -12,7 +12,6 @@ This is an **Analysis** Tool for Algorithms in an attempt to create **Minor-1 Pr
 - [Shell Sort](http://www.geeksforgeeks.org/shellsort/)
 - [Cocktail Sort](http://www.geeksforgeeks.org/cocktail-sort/)
 - [Bucket Sort](http://www.geeksforgeeks.org/bucket-sort-2/)
----
 
 ## Searching Algorithms Implemented
 - [Linear Search](http://www.geeksforgeeks.org/linear-search/)
