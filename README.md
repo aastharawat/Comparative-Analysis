@@ -32,10 +32,10 @@ This is an Analysis Tool for Algorithms in an attempt to create Minor-1 Project.
 ---
 
 ### Contributers
-- Abhinav Sharma
-- Aastha Rawat
-- Hemant Thakkar
-- Jyotsna Bisht
+- [Abhinav Sharma](https://github.com/ABSphreak)
+- [Aastha Rawat](https://github.com/aastharawat)
+- [Hemant Thakkar](#)
+- [Jyotsna Bisht](#)
 
 ### License
 Licensed under [MIT License](LICENSE)
